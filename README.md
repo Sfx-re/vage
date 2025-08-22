@@ -1,22 +1,43 @@
-# Godot Engine
+# VAGE Engine
 
-<p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
-  </a>
-</p>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language: C# / C++](https://img.shields.io/badge/Language-C%23%20%2F%20C++-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Platform: PC / Console / Mobile](https://img.shields.io/badge/Platform-PC%20%2F%20Console%20%2F%20Mobile-lightgrey.svg)]()
 
-## 2D and 3D cross-platform game engine
+![VAGE Logo](https://your-image-link.com/logo.png) <!-- Replace with your logo link -->
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
-game engine to create 2D and 3D games from a unified interface.** It provides a
-comprehensive set of [common tools](https://godotengine.org/features), so that
-users can focus on making games without having to reinvent the wheel. Games can
-be exported with one click to a number of platforms, including the major desktop
-platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as
-Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutorials/platform/consoles.html).
+---
 
-## Free, open source and community-driven
+## Overview
+
+**VAGE Engine** is a **high-performance, custom game engine** built on the foundation of the Godot and Stride/Xenko source code.  
+It is designed for **AAA-quality games, open-world environments, and large-scale online experiences**, while being fully modular for developers.
+
+Developed by **Elijah Siita / vidllQ Authority**, VAGE Engine offers:
+
+- Full control over engine source code  
+- Optimized for PC, consoles, and mobile devices  
+- Support for open-world and multiplayer games  
+- Tools for rapid game development  
+
+---
+
+## Features
+
+- Modular engine architecture for custom game mechanics  
+- Advanced rendering pipeline and large-world optimizations  
+- Multiplayer support for online games  
+- Compatible with Godot scripts and projects  
+- Full access to source code for complete customization  
+
+---
+
+## Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/vage-engine.git
+cd vage-engine
 
 Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
