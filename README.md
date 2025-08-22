@@ -1,9 +1,9 @@
 # 🔥 VAGE Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Language: C# / C++](https://img.shields.io/badge/Language-C%23%20%2F%20C++-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Language: C# / C++](https://img.shields.io/badge/Language-C%23%20%2F%20C++-blue.svg)]()
 [![Platform: PC / Console / Mobile](https://img.shields.io/badge/Platform-PC%20%2F%20Console%20%2F%20Mobile-lightgrey.svg)]()
-[![VidllQ](https://img.shields.io/badge/Powered_by-VidllQ-orange.svg)](https://vidllq.com)
+[![VidllQ](https://img.shields.io/badge/Powered_by-VidllQ-orange.svg)]()
 
 ![VAGE Logo](https://raw.githubusercontent.com/yourusername/your-repo-name/main/IMG-20250811-WA0000.jpg)
 
@@ -11,8 +11,61 @@
 
 ## 🌟 Overview
 
-**VAGE Engine** is a **high-performance, custom game engine** built on the foundations of **Godot and Stride/Xenko**.  
-Designed for **AAA-quality games, open-world environments, and large-scale online experiences**, it is fully modular and developer-friendly.  
+**VAGE Engine** is a **custom-branded distribution** of **Godot and Stride/Xenko**, designed for **AAA-quality games, open-world environments, and multiplayer experiences**.  
+
+**Created by Elijah Siita / vidllQ Authority**, VAGE Engine provides:  
+
+- Prepackaged engine for **PC, consoles, and mobile**  
+- Samples and tools for **rapid game development**  
+- Full **compatibility with Godot scripts and projects**  
+- Optional access to **source code** if you want to build the engine yourself  
+
+> ⚠ Note: The core Godot/Stride engine source code has **not been modified**.
+
+---
+
+## ⚙ Features
+
+- Modular architecture for **custom game mechanics**  
+- Advanced **rendering pipeline** for large worlds  
+- **Multiplayer support** for online games  
+- Compatible with **Godot projects and scripts**  
+- Access to **prebuilt binaries** or **source code** for customization  
+
+---
+
+## 🚀 Get VAGE
+
+You can start using VAGE immediately without building:  
+
+1. Download the latest **prebuilt version** from the Releases page.  
+2. Open your projects or try the included **sample projects**.  
+
+[GitHub Releases](https://github.com/yourusername/vage-engine/releases)
+
+Or, if you want to **build the engine yourself**, use the original Godot/Stride source code.
+
+---
+
+## 📚 Documentation
+
+Guides and tutorials available here:  
+
+[https://vidllq.com/vage/docs](https://vidllq.com/vage/docs)
+
+---
+
+## ⚖ License
+
+VAGE Engine is **MIT licensed**. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+
+---
+
+## 📞 Contact
+
+Created by **Elijah Siita / vidllQ Authority**  
+Website: [https://vidllq.com](https://vidllq.com)  
+Email: contact@vidllq.com
 
 **Created by Elijah Siita / vidllQ Authority**, VAGE Engine offers:  
 
