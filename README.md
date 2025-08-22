@@ -1,19 +1,44 @@
-# VAGE Engine
+# 🔥 VAGE Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C# / C++](https://img.shields.io/badge/Language-C%23%20%2F%20C++-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Platform: PC / Console / Mobile](https://img.shields.io/badge/Platform-PC%20%2F%20Console%20%2F%20Mobile-lightgrey.svg)]()
+[![VidllQ](https://img.shields.io/badge/Powered_by-VidllQ-orange.svg)](https://vidllq.com)
 
-![VAGE Logo](https://your-image-link.com/logo.png) <!-- Replace with your logo link -->
+![VAGE Logo](https://raw.githubusercontent.com/yourusername/your-repo-name/main/IMG-20250811-WA0000.jpg)
 
 ---
 
-## Overview
+## 🌟 Overview
 
-**VAGE Engine** is a **high-performance, custom game engine** built on the foundation of the Godot and Stride/Xenko source code.  
-It is designed for **AAA-quality games, open-world environments, and large-scale online experiences**, while being fully modular for developers.
+**VAGE Engine** is a **high-performance, custom game engine** built on the foundations of **Godot and Stride/Xenko**.  
+Designed for **AAA-quality games, open-world environments, and large-scale online experiences**, it is fully modular and developer-friendly.  
 
-Developed by **Elijah Siita / vidllQ Authority**, VAGE Engine offers:
+**Created by Elijah Siita / vidllQ Authority**, VAGE Engine offers:  
+
+- Full control over engine source code  
+- Optimized for **PC, consoles, and mobile**  
+- Support for **open-world and multiplayer games**  
+- Advanced tools for **rapid game development**  
+
+---
+
+## ⚙ Features
+
+- Modular architecture for **custom game mechanics**  
+- Advanced **rendering pipeline** and optimizations for large worlds  
+- **Multiplayer support** for online games  
+- Compatible with **Godot scripts and projects**  
+- Full access to **source code for complete customization**  
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/vage-engine.git
+cd vage-engine
 
 - Full control over engine source code  
 - Optimized for PC, consoles, and mobile devices  
