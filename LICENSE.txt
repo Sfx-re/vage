@@ -1,20 +1,82 @@
-Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md).
-Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+VAGE Engine – Private Game Engine License
+Version 1.0 – Released August 1, 2025
+Copyright (c) 2025 DJsiita Studios (Elijah Siita / DJsiita)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+VAGE Engine is a customized and extended version of the Godot Engine (https://godotengine.org),
+which is licensed under the MIT License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+All modifications, enhancements, and new systems created by DJsiita Studios are proprietary.
+This engine is intended for internal use only by DJsiita Studios and its development team.
+
+────────────────────────────────────────────
+⚖ GODOT ENGINE LICENSE – MIT (OPEN-SOURCE)
+────────────────────────────────────────────
+
+Copyright (c) 2007-2025 Juan Linietsky, Ariel Manzur, and the Godot community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+and associated documentation files (the "Software"), to deal in the Software without restriction,
+including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies
+or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+────────────────────────────────────────────
+🔒 VAGE ENGINE LICENSE – DJSIITA STUDIOS PROPRIETARY
+────────────────────────────────────────────
+
+All original code, engine modifications, features, tools, scripts, interfaces, gameplay systems,
+and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios.
+
+This includes but is not limited to:
+- Modifications to Godot Engine
+- Internal gameplay systems
+- VAGE-specific build tools and configurations
+- UI/UX enhancements
+- Branding, logos, and engine name
+
+You are strictly prohibited from:
+- Using this engine or its code outside DJsiita Studios
+- Redistributing, publishing, or uploading the engine
+- Modifying, decompiling, or reverse-engineering the engine
+- Creating derivative works based on VAGE Engine
+- Sharing the engine with third parties without written permission
+
+This engine is for private, internal use only. Unauthorized use constitutes a breach of copyright law.
+
+────────────────────────────────────────────
+📍 DISCLAIMER
+────────────────────────────────────────────
+
+VAGE Engine is the private, proprietary property of DJsiita Studios.
+
+No individual, organization, or third party has permission to use, distribute, modify, or access this engine
+in any form outside of DJsiita Studios.
+
+Any unauthorized use, sharing, or redistribution is strictly prohibited and may result in legal action
+under Zambian copyright law.
+
+By accessing this engine, you acknowledge that you have no rights to use it and agree to comply with these terms.
+
+────────────────────────────────────────────
+📍 NOTICE
+────────────────────────────────────────────
+
+If the engine is found publicly, leaked, or otherwise distributed without authorization,
+DJsiita Studios is not responsible, and legal action may be pursued.
+
+Use of this engine implies full agreement with these terms.
+
+────────────────────────────────────────────
+⚖ LEGAL GOVERNANCE
+────────────────────────────────────────────
+
+This license is governed by the laws of Zambia. All disputes shall be resolved under its jurisdiction.
+
+────────────────────────────────────────────
+End of License.
+
