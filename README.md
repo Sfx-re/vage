@@ -49,3 +49,4 @@ For inquiries regarding licensing, internal use, or collaborations, contact:
 **DJsiita Studios / Elijah Siita (VidllQ Authority)**  
 Email: legalvidllq@gmail.com  
 Website: [your website here]
+![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
