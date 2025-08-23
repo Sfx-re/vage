@@ -1,56 +1,44 @@
-# VAGE Engine – Private Game Engine
+# ⚠️ VAGE Engine – Private Game Engine
 
-**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**
+**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
+
+**NOTICE:** Unauthorized use, modification, distribution, or sharing of this engine, its source code, assets, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
 ---
 
 ## Overview
 
 VAGE Engine is a **fully proprietary custom game engine** developed and maintained by DJsiita Studios.  
-It is designed for internal use by our development team and combines cutting-edge systems, tools, and custom gameplay mechanics tailored for our projects.  
+It is intended **exclusively for internal use** by our development team. This engine combines advanced systems, custom tools, and gameplay mechanics tailored for our projects.  
 
-This engine is **not open-source** and **cannot be used, distributed, or modified** without explicit permission from DJsiita Studios.
+This engine is **not open-source**. Any use, redistribution, modification, or reverse engineering without explicit written permission from DJsiita Studios is strictly forbidden.
 
 ---
 
 ## Features
 
 - **Core Engine Systems** – Fully customized rendering, physics, and scripting pipelines.  
-- **Gameplay Mechanics** – Proprietary systems for AI, animation, and custom game logic.  
-- **Development Tools** – Build tools, configuration systems, and deployment pipelines for internal use.  
-- **UI/UX Enhancements** – Custom interfaces and developer tools for workflow efficiency.  
-- **Branding & Assets** – Logos, names, and interfaces associated with VAGE Engine are proprietary.  
-
----
-
-## Usage
-
-This engine is **strictly for internal use** by DJsiita Studios and its authorized development team.  
-You **cannot**:
-
-- Use this engine or its code outside DJsiita Studios.  
-- Redistribute, publish, or upload the engine to any platform.  
-- Modify, decompile, or reverse-engineer the engine.  
-- Share it with third parties without written permission.
+- **Gameplay Mechanics** – Proprietary AI, animation, and game logic systems.  
+- **Development Tools** – Build pipelines, configuration systems, and deployment tools for internal use only.  
+- **Branding & Assets** – All logos, UI/UX elements, and engine identifiers are **protected intellectual property** of DJsiita Studios.  
 
 ---
 
 ## License
 
-VAGE Engine is governed by the **DJsiita Studios Proprietary License**.  
-Unauthorized use, distribution, or tampering is a breach of copyright law and may result in legal enforcement.  
+This engine is governed by the **VAGE Engine – Private Game Engine License, Version 1.0 (August 1, 2025)**.  
+All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**.  
 
-For more details, see the `LICENSE.txt` file.
-
-> **Notice:**  
-> If this engine appears publicly, online, or in leaked form, DJsiita Studios is not responsible. Unauthorized distribution is prohibited and may be subject to takedown under copyright law.
+- **Full license details:** See `LICENSE` file  
+- **Governing law:** Zambia  
 
 ---
 
-## Attribution
+## Disclaimer
 
-VAGE Engine is based in part on the **Godot Engine**.  
-Original Godot Engine code remains under the **MIT License**. See `COPYRIGHT_GODOT.txt` for details.  
+- This engine is intended for **internal studio use only**.  
+- **No individual or third party** is authorized to access, distribute, or modify this engine in any form.  
+- Unauthorized use, sharing, or redistribution will be treated as a **copyright infringement**.  
 
 ---
 
@@ -59,10 +47,5 @@ Original Godot Engine code remains under the **MIT License**. See `COPYRIGHT_GOD
 For inquiries regarding licensing, internal use, or collaborations, contact:
 
 **DJsiita Studios / Elijah Siita (VidllQ Authority)**  
-Email:legalvidllq@gmail.com]  
+Email: legalvidllq@gmail.com  
 Website: [your website here]
-
----
-
-*Use of this engine implies full agreement to these terms.*
-
