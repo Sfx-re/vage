@@ -1,4 +1,10 @@
-![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
+---
+
+## 🎥 Subscribe to My YouTube Channel
+
+Check out my YouTube channel for videos, tutorials, and updates related to game development and VAGE Engine:
+
+[**Subscribe to VidllQ on YouTube**](https://www.youtube.com/@Mrsiita).
 # ⚠️ VAGE Engine – Private Game Engine
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
