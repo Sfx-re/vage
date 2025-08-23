@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="black"/>
+  <polygon points="512,100 612,400 924,400 668,600 768,900 512,720 256,900 356,600 100,400 412,400"
+           fill="#1a1a2e" stroke="#0f3460" stroke-width="10"/>
+  <circle cx="440" cy="450" r="40" fill="white"/>
+  <circle cx="580" cy="450" r="40" fill="white"/>
+  <circle cx="440" cy="450" r="15" fill="black"/>
+  <circle cx="580" cy="450" r="15" fill="black"/>
+  <path d="M420 560 Q512 640 604 560" stroke="white" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <text x="50%" y="980" font-size="48" fill="white" text-anchor="middle">Godot Star Icon</text>
+</svg>
