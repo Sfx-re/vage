@@ -1,3 +1,4 @@
+![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 # ⚠️ VAGE Engine – Private Game Engine
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
@@ -49,4 +50,4 @@ For inquiries regarding licensing, internal use, or collaborations, contact:
 **DJsiita Studios / Elijah Siita (VidllQ Authority)**  
 Email: legalvidllq@gmail.com  
 Website: [your website here]
-![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
+
