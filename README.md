@@ -1,4 +1,4 @@
-# VAGE Engine – Private Game Engine
+(https://github.com/vidllQ/vage/blob/d76acc002b278ae0e4cc971b2b7f4fc867367aca/logo.png # VAGE Engine – Private Game Engine
 
 **Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**
 
