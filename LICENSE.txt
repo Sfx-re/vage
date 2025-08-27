@@ -1,33 +1,57 @@
-⚠️ VAGE Engine – Private Game Engine License
+VAGE Engine – Proprietary License Agreement
 Version 1.0 – Released August 1, 2025
 Copyright (c) 2025 DJsiita Studios (Elijah Siita / DJsiita)
 
-────────────────────────────────────────────
-1️⃣ Overview
-────────────────────────────────────────────
-VAGE Engine is a proprietary game engine developed and maintained by DJsiita Studios. It is based on the Godot Engine (https://godotengine.org), which is licensed under the MIT License.
+Overview
+VAGE Engine is a proprietary game engine developed and maintained by DJsiita Studios (VidllQ Limited).
 
-All modifications, enhancements, systems, tools, and branding created by DJsiita Studios are proprietary and intended for internal use only.
+It is based on the Godot Engine (https://godotengine.org), which is distributed under the MIT License.
+The unmodified Godot Engine remains licensed under MIT.
+All modifications, enhancements, systems, tools, and branding created by DJsiita Studios are exclusive property of the studio and protected under this Proprietary License.
 
-────────────────────────────────────────────
-2️⃣ Godot Engine License (MIT)
-────────────────────────────────────────────
+Godot Engine License (MIT)
 Godot Engine is open-source under the MIT License:
+
 - Copyright (c) 2007–2025 Juan Linietsky, Ariel Manzur, and the Godot community
-- Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to MIT conditions.
+- Permission is granted, free of charge, to any person obtaining a copy of the Software to deal in the Software without restriction, subject to including the copyright notice in all copies or substantial portions of the Software.
 - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
-────────────────────────────────────────────
-3️⃣ VAGE Engine – Proprietary Rights
-────────────────────────────────────────────
-All original code, modifications, features, tools, scripts, interfaces, gameplay systems, and branding are the exclusive property of DJsiita Studios.
+VAGE Engine Proprietary Rights
+All original work created by DJsiita Studios is proprietary and not covered by the MIT License.
 
-Includes but not limited to:
-- Modifications to Godot Engine
-- Internal gameplay systems
-- VAGE-specific build tools and configurations
-- UI/UX enhancements
-- Branding, logos, and engine name
+This includes but is not limited to:
+- Modifications and extensions of the Godot Engine
+- VAGE-specific build tools, compilers, and configurations
+- Internal gameplay systems and frameworks
+- User interface (UI/UX) enhancements
+- Proprietary scripts, modules, and integrations
+- Branding, trademarks, and logos associated with VAGE Engine
+
+Without prior written consent from DJsiita Studios, it is strictly prohibited to:
+- Use the VAGE Engine outside DJsiita Studios
+- Redistribute, publish, upload, or share the VAGE Engine or its source code
+- Modify, decompile, or reverse-engineer the VAGE Engine
+- Create derivative works based on VAGE Engine
+
+Trademarks
+VAGE Engine™ and DJsiita Studios™ are trademarks of VidllQ Limited.
+Unauthorized use of these names, logos, or associated branding is strictly prohibited.
+
+Disclaimer & Liability
+VAGE Engine is provided “as is” without warranty of any kind.
+DJsiita Studios makes no guarantees regarding performance, reliability, or suitability for any purpose.
+DJsiita Studios is not responsible for any unauthorized distribution, leaks, or misuse of this software.
+Any unauthorized use of VAGE Engine constitutes a breach of copyright law and may result in legal action under Zambian and international law.
+
+Legal Governance
+This license is governed exclusively by the laws of Zambia.
+All disputes shall be resolved under Zambian jurisdiction.
+
+Contact
+For licensing inquiries, collaboration, or official permissions, please contact:
+legalvidllq@gmail.com
+
+End of License
 
 Strict Prohibitions:
 - Using the engine outside DJsiita Studios
