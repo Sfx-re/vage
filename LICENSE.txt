@@ -1,59 +1,55 @@
-VAGE Engine – Private Game Engine
-Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)
+VAGE Engine – Private Game Engine  
+Copyright (c) 2025–2026 DJsiita Studios (Elijah Siita / VidllQ Authority)
 
-This engine is a fully proprietary custom engine based on internal development,
-and all code, features, and systems are owned and maintained by DJsiita Studios.
-
-────────────────────────────────────────────
-
-🔒 VAGE ENGINE LICENSE – DJsiita Studios Proprietary
+This engine is a fully proprietary custom engine based on internal development.  
+All code, features, and systems are owned and maintained by DJsiita Studios.  
 
 ────────────────────────────────────────────
 
-All original code, modifications, features, scripts, interfaces, systems, tools,
-and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios.
-
-This includes, but is not limited to:
-- Core engine source code and internal systems
-- Custom gameplay mechanics and scripts
-- Build tools, configuration systems, and deployment pipelines
-- UI/UX enhancements and proprietary interfaces
-- Branding, logos, and product names associated with VAGE Engine
-
-You are NOT permitted to:
-- Use this engine or its code outside DJsiita Studios
-- Redistribute, publish, or upload the engine to any platform
-- Modify, decompile, or reverse-engineer the engine
-- Share it with third parties without written permission
-
-This engine is for private internal use only by DJsiita Studios and its development team.
-
-Unauthorized use, distribution, or tampering will be considered a breach of copyright law
-and may result in legal enforcement under applicable intellectual property laws.
+🔒 VAGE ENGINE LICENSE – DJsiita Studios Proprietary  
 
 ────────────────────────────────────────────
 
-📍 NOTICE
+All original code, modifications, features, scripts, interfaces, systems, tools,  
+and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios.  
+
+This includes, but is not limited to:  
+- Core engine source code and internal systems  
+- Custom gameplay mechanics and scripts  
+- Build tools, configuration systems, and deployment pipelines  
+- UI/UX enhancements and proprietary interfaces  
+- Branding, logos, and product names associated with VAGE Engine  
 
 ────────────────────────────────────────────
 
-If this engine appears publicly, on the internet, or in leaked form, DJsiita Studios is not responsible.
-Any unauthorized distribution is a violation of our internal license and is subject to takedown under copyright law.
+❌ You are NOT permitted to:  
+- Use this engine or its code outside DJsiita Studios  
+- Redistribute, publish, or upload the engine to any platform  
+- Modify, decompile, or reverse-engineer the engine  
+- Share it with third parties without written permission  
+- Create derivative works from this engine  
 
-Use of this engine implies full agreement to these terms.
+────────────────────────────────────────────
+
+✅ Authorized Use  
+This engine is for private internal use only by DJsiita Studios and its development team.  
+Authorized use is limited to official DJsiita Studios employees and contractors under signed agreements.  
 
 ────────────────────────────────────────────
 
-End of License.
-Contact──────────────────────────────────────
- Contact & Permissions
-────────────────────────────────────────────
-For licensing, collaboration, or official inquiries:
-Email: legalvidllq@gmail.com
+⚖️ Legal Notice  
+Unauthorized use, distribution, or tampering will be considered a breach of copyright law  
+and may result in legal enforcement under applicable intellectual property laws.  
+
+This license is governed by and construed under the laws of Zambia.  
 
 ────────────────────────────────────────────
- Legal Governance
-────────────────────────────────────────────
-This license is governed by the laws of Zambia. All disputes shall be resolved under its jurisdiction.
 
+📍 NOTICE  
+If this engine appears publicly, on the internet, or in leaked form, DJsiita Studios is not responsible.  
+Any unauthorized distribution is a violation of this license and subject to takedown under copyright law.  
+
+Use of this engine implies full agreement to these terms.  
+
+────────────────────────────────────────────
 End of License.
