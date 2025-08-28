@@ -1,81 +1,58 @@
-VAGE Engine – Proprietary License Agreement
-Version 1.0 – Released August 1, 2025
-Copyright (c) 2025 DJsiita Studios (Elijah Siita / DJsiita)
+VAGE Engine – Private Game Engine
+Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)
 
-Overview
-VAGE Engine is a proprietary game engine developed and maintained by DJsiita Studios (VidllQ Limited).
-
-It is based on the Godot Engine (https://godotengine.org), which is distributed under the MIT License.
-The unmodified Godot Engine remains licensed under MIT.
-All modifications, enhancements, systems, tools, and branding created by DJsiita Studios are exclusive property of the studio and protected under this Proprietary License.
-
-Godot Engine License (MIT)
-Godot Engine is open-source under the MIT License:
-
-- Copyright (c) 2007–2025 Juan Linietsky, Ariel Manzur, and the Godot community
-- Permission is granted, free of charge, to any person obtaining a copy of the Software to deal in the Software without restriction, subject to including the copyright notice in all copies or substantial portions of the Software.
-- THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-VAGE Engine Proprietary Rights
-All original work created by DJsiita Studios is proprietary and not covered by the MIT License.
-
-This includes but is not limited to:
-- Modifications and extensions of the Godot Engine
-- VAGE-specific build tools, compilers, and configurations
-- Internal gameplay systems and frameworks
-- User interface (UI/UX) enhancements
-- Proprietary scripts, modules, and integrations
-- Branding, trademarks, and logos associated with VAGE Engine
-
-Without prior written consent from DJsiita Studios, it is strictly prohibited to:
-- Use the VAGE Engine outside DJsiita Studios
-- Redistribute, publish, upload, or share the VAGE Engine or its source code
-- Modify, decompile, or reverse-engineer the VAGE Engine
-- Create derivative works based on VAGE Engine
-
-Trademarks
-VAGE Engine™ and DJsiita Studios™ are trademarks of VidllQ Limited.
-Unauthorized use of these names, logos, or associated branding is strictly prohibited.
-
-Disclaimer & Liability
-VAGE Engine is provided “as is” without warranty of any kind.
-DJsiita Studios makes no guarantees regarding performance, reliability, or suitability for any purpose.
-DJsiita Studios is not responsible for any unauthorized distribution, leaks, or misuse of this software.
-Any unauthorized use of VAGE Engine constitutes a breach of copyright law and may result in legal action under Zambian and international law.
-
-Legal Governance
-This license is governed exclusively by the laws of Zambia.
-All disputes shall be resolved under Zambian jurisdiction.
-
-Contact
-For licensing inquiries, collaboration, or official permissions, please contact:
-legalvidllq@gmail.com
-
-End of License
-
-Strict Prohibitions:
-- Using the engine outside DJsiita Studios
-- Redistributing, publishing, uploading, or sharing
-- Modifying, decompiling, or reverse-engineering
-- Creating derivative works based on VAGE Engine
-
-This engine is for private, internal use only. Unauthorized use constitutes a breach of copyright law.
+This engine is a fully proprietary custom engine based on internal development,
+and all code, features, and systems are owned and maintained by DJsiita Studios.
 
 ────────────────────────────────────────────
-4️⃣ Disclaimer & Notice
-────────────────────────────────────────────
-- DJsiita Studios is not responsible for any unauthorized leaks or public distribution.
-- Use of the engine implies agreement to comply with these terms.
-- Any unauthorized use may result in legal action under Zambian copyright law.
+
+🔒 VAGE ENGINE LICENSE – DJsiita Studios Proprietary
 
 ────────────────────────────────────────────
-5️⃣ Contact & Permissions
+
+All original code, modifications, features, scripts, interfaces, systems, tools,
+and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios.
+
+This includes, but is not limited to:
+- Core engine source code and internal systems
+- Custom gameplay mechanics and scripts
+- Build tools, configuration systems, and deployment pipelines
+- UI/UX enhancements and proprietary interfaces
+- Branding, logos, and product names associated with VAGE Engine
+
+You are NOT permitted to:
+- Use this engine or its code outside DJsiita Studios
+- Redistribute, publish, or upload the engine to any platform
+- Modify, decompile, or reverse-engineer the engine
+- Share it with third parties without written permission
+
+This engine is for private internal use only by DJsiita Studios and its development team.
+
+Unauthorized use, distribution, or tampering will be considered a breach of copyright law
+and may result in legal enforcement under applicable intellectual property laws.
+
+────────────────────────────────────────────
+
+📍 NOTICE
+
+────────────────────────────────────────────
+
+If this engine appears publicly, on the internet, or in leaked form, DJsiita Studios is not responsible.
+Any unauthorized distribution is a violation of our internal license and is subject to takedown under copyright law.
+
+Use of this engine implies full agreement to these terms.
+
+────────────────────────────────────────────
+
+End of License.
+Contact──────────────────────────────────────
+ Contact & Permissions
 ────────────────────────────────────────────
 For licensing, collaboration, or official inquiries:
 Email: legalvidllq@gmail.com
 
 ────────────────────────────────────────────
-6️⃣ Legal Governance
+ Legal Governance
 ────────────────────────────────────────────
 This license is governed by the laws of Zambia. All disputes shall be resolved under its jurisdiction.
 
