@@ -7,20 +7,16 @@ Files: *
 Copyright: 2025–present, Elijah Siita / DJsiita Studios (VidllQ Authority)
 License: VAGE-Proprietary
 Comment:
- VAGE Engine is a fully proprietary, closed-source engine developed
- exclusively by DJsiita Studios. It is not licensed for public use,
- redistribution, or modification. All rights reserved.
+ VAGE Engine is a customized derivative of the Godot Engine (MIT-licensed).
+ All original modifications, extensions, and branding by DJsiita Studios
+ are proprietary and not licensed for redistribution.
 
- You are NOT permitted to:
-  - Use this engine outside DJsiita Studios
-  - Redistribute, publish, or upload the engine
-  - Modify, decompile, or reverse-engineer the engine
-  - Share it with third parties without explicit written permission
-
- This engine is for private internal use only by DJsiita Studios.
-
- Any unauthorized use, leak, or distribution is a violation of copyright
- and subject to takedown and legal enforcement.
+Files: thirdparty/* platform/* modules/*
+Copyright: 2007–2025, Godot Engine contributors (see LICENSE.GODOT)
+License: MIT
+Comment:
+ These parts are from the Godot Engine, which is MIT-licensed.
+ The full MIT license text and author list are included in LICENSE.GODOT.
 
 Files: logo.png logo.svg
 Copyright: 2025, Elijah Siita / DJsiita Studios
@@ -36,3 +32,22 @@ License: VAGE-Proprietary
  consent from Elijah Siita (VidllQ Authority).
  .
  Unauthorized distribution is prohibited by law and will be prosecuted.
+
+License: MIT
+ Permission is hereby granted, free of charge, to any person obtaining a
+ copy of this software and associated documentation files (the "Software"),
+ to deal in the Software without restriction, including without limitation
+ the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ and/or sell copies of the Software, and to permit persons to whom the
+ Software is furnished to do so, subject to the following conditions:
+ .
+ The above copyright notice and this permission notice shall be included
+ in all copies or substantial portions of the Software.
+ .
+ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
