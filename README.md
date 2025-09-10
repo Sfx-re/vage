@@ -2,7 +2,7 @@
 
 # ⚠️ VAGE Engine – Private Game Engine
 
-**Copyright (c) 2025 DJsiita Studios (Elijah Siita / VidllQ Authority)**  
+**Copyright (c) 2025 SitizenFX (Elijah Siita / VidllQ Authority)**  
 
 **NOTICE:** Unauthorized use, modification, distribution, or sharing of this engine, its source code, assets, or branding is strictly prohibited and may result in legal action under Zambian copyright law.
 
@@ -62,14 +62,14 @@ Check out my YouTube channel for videos, tutorials, and updates related to game 
 - **Core Engine Systems** – Fully customized rendering, physics, and scripting pipelines.  
 - **Gameplay Mechanics** – Proprietary AI, animation, and game logic systems.  
 - **Development Tools** – Build pipelines, configuration systems, and deployment tools for internal use only.  
-- **Branding & Assets** – All logos, UI/UX elements, and engine identifiers are **protected intellectual property** of DJsiita Studios.  
+- **Branding & Assets** – All logos, UI/UX elements, and engine identifiers are **protected intellectual property** of SitizenFX.  
 
 ---
 
 ## License
 
 This engine is governed by the **VAGE Engine – Private Game Engine License, Version 1.0 (August 1, 2025)**.  
-All modifications, enhancements, and new systems created by DJsiita Studios are **proprietary and restricted**.  
+All modifications, enhancements, and new systems created by SitizenFX are **proprietary and restricted**.  
 
 - **Full license details:** See `LICENSE` file  
 - **Governing law:** Zambia  
@@ -88,7 +88,7 @@ All modifications, enhancements, and new systems created by DJsiita Studios are 
 
 For inquiries regarding licensing, internal use, or collaborations, contact:
 
-**DJsiita Studios / Elijah Siita (VidllQ Authority)**  
+SitizenFX / Elijah Siita (VidllQ Authority)**  
 Email: legalvidllq@gmail.com  
 Website: [your website here]
 
