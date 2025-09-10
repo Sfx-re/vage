@@ -1,23 +1,49 @@
-VAGE Engine – Private Game Engine  
-Copyright (c) 2025–2026 DJsiita Studios (Elijah Siita / VidllQ Authority)
+**Copyright (c) 2024 Elijah Siita / VidllQ Authority**
+VAGE Engine is a fully proprietary custom game engine developed internally. All code, features, systems, tools, and branding are created and maintained by **SitizenFX** under the authority of **Sfx.re Limited**.
 
-This engine is a fully proprietary custom engine based on internal development.  
-All code, features, and systems are owned and maintained by DJsiita Studios.  
+──────────────────────────────────────────────
 
-────────────────────────────────────────────
+**VAGE ENGINE LICENSE – SitizenFX Proprietary**
 
-🔒 VAGE ENGINE LICENSE – DJsiita Studios Proprietary  
+──────────────────────────────────────────────
 
-────────────────────────────────────────────
+All original code, modifications, features, scripts, interfaces, systems, tools, and branding created by **SitizenFX** are the exclusive intellectual property of **SitizenFX / Sfx.re**.
 
-All original code, modifications, features, scripts, interfaces, systems, tools,  
-and branding created by DJsiita Studios are the exclusive intellectual property of DJsiita Studios.  
+This includes, but is not limited to:
 
-This includes, but is not limited to:  
-- Core engine source code and internal systems  
-- Custom gameplay mechanics and scripts  
-- Build tools, configuration systems, and deployment pipelines  
-- UI/UX enhancements and proprietary interfaces  
+* Core engine source code and internal systems
+* Custom gameplay mechanics and scripts
+* Build tools, configuration systems, and deployment pipelines
+* UI/UX enhancements and proprietary interfaces
+* Branding, logos, and product names associated with VAGE Engine
+
+**You are NOT permitted to:**
+
+* Use VAGE Engine or its code outside **SitizenFX / Sfx.re** without written permission
+* Redistribute, publish, or upload any part of VAGE Engine publicly
+* Modify, decompile, reverse-engineer, or tamper with proprietary components
+* Share it with third parties without explicit authorization
+
+This software is for **internal or authorized use only** by **SitizenFX / Sfx.re**.
+Unauthorized use, distribution, or tampering may result in legal enforcement under applicable copyright law.
+
+Protected under **Zambian copyright law** and international treaties (Berne Convention).
+
+──────────────────────────────────────────────
+
+**NOTICE**
+
+──────────────────────────────────────────────
+
+If VAGE Engine appears publicly, on the internet, or in leaked form, **SitizenFX / Sfx.re** is not responsible.
+Any unauthorized distribution is a violation of this license and is subject to takedown under copyright law.
+
+Use of VAGE Engine implies full agreement to these terms.
+
+──────────────────────────────────────────────
+
+**End of License**
+I UI/UX enhancements and proprietary interfaces  
 - Branding, logos, and product names associated with VAGE Engine  
 
 ────────────────────────────────────────────
