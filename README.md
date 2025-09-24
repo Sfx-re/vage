@@ -1,4 +1,4 @@
-# Private / Proprietary Badge
+## Private / Proprietary Badge
 ![Private / Proprietary](https://img.shields.io/badge/License-Proprietary-red)
 
 # ⚠️ VAGE Engine – Private Game Engine
